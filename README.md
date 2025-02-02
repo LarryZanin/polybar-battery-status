@@ -1,6 +1,6 @@
 # Polybar-battery-status
 A custom Polybar module that displays battery status on the bar.
-
+This module is modified module from https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/battery-combined-udev
 
 ## INSTALLATION:
 -    Execute these commands sequentially.
